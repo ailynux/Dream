@@ -1,4 +1,4 @@
-# Dream Library 🌙✨
+# Dream Library 🌙✨ - for practice
 
 A full-stack application for recording and analyzing your dreams, built with ASP.NET Core Web API and React.
 
